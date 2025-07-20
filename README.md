@@ -36,5 +36,5 @@ This project introduces a React-based web application that functions as a clone 
 ## Installation
 
 1. Clone the repository:
-
+```bash
  [https://github.com/manik-it-hub/Gemini-Clone.git]
